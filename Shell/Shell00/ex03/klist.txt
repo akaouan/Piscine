@@ -1,0 +1,5 @@
+Credentials cache: API:AB13F899-3885-47E0-ACA0-EBCB2A8493FA
+        Principal: akaouan@1337.MA
+
+  Issued                Expires               Principal
+Sep 21 09:23:01 2021  Sep 28 09:22:55 2021  krbtgt/1337.MA@1337.MA
